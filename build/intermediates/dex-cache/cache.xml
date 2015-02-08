@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\workspaces\androidstudio\AB2015HTTPTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="D:\workspaces\androidstudio\AB2015HTTPTest\app\build\intermediates\pre-dexed\debug\classes-7e48a29ed82643091e825793d2665ddaa2e3cb64.jar" />
+    </item>
+    <item
+        jar="C:\Users\mtac\.gradle\caches\modules-2\files-2.1\com.loopj.android\android-async-http\1.4.5\77bf7cacf9cefe19dc105e5425d2eb1bb5285881\android-async-http-1.4.5.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="77bf7cacf9cefe19dc105e5425d2eb1bb5285881">
+        <dex dex="D:\workspaces\androidstudio\AB2015HTTPTest\app\build\intermediates\pre-dexed\debug\android-async-http-1.4.5-7b9f7259b76ffda2fe47ab4489702e0be36b1445.jar" />
+    </item>
+    <item
+        jar="D:\ANDROID\adt-bundle-windows-x86_64-20140321\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="D:\workspaces\androidstudio\AB2015HTTPTest\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-a70a20d63a0c03b326cadd25b4a61f1d59a742b2.jar" />
+    </item>
+    <item
+        jar="C:\Users\mtac\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="D:\workspaces\androidstudio\AB2015HTTPTest\app\build\intermediates\pre-dexed\debug\gson-2.3.1-cdd092e4313a4f495a8eb0efb679ed7e25659cd0.jar" />
+    </item>
+    <item
+        jar="D:\workspaces\androidstudio\AB2015HTTPTest\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="D:\workspaces\androidstudio\AB2015HTTPTest\app\build\intermediates\pre-dexed\debug\classes-5088c102c9a6bbe3cf2ac664bd748b770ec94d3b.jar" />
+    </item>
+    <item
+        jar="D:\workspaces\androidstudio\AB2015HTTPTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="D:\workspaces\androidstudio\AB2015HTTPTest\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-4902c004b4eddfbf8c616536210880d69b3099ad.jar" />
+    </item>
+
+</items>
